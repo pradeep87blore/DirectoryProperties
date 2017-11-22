@@ -1,0 +1,14 @@
+c:\users\bangalpr\documents\visual studio 2015\Projects\DirectoryProperties\DirectoryPropertiesFrontEnd\bin\Debug\DirectoryPropertiesFrontEnd.exe.config
+c:\users\bangalpr\documents\visual studio 2015\Projects\DirectoryProperties\DirectoryPropertiesFrontEnd\bin\Debug\DirectoryPropertiesFrontEnd.exe
+c:\users\bangalpr\documents\visual studio 2015\Projects\DirectoryProperties\DirectoryPropertiesFrontEnd\bin\Debug\DirectoryPropertiesFrontEnd.pdb
+c:\users\bangalpr\documents\visual studio 2015\Projects\DirectoryProperties\DirectoryPropertiesFrontEnd\obj\Debug\DirectoryPropertiesFrontEnd.csprojResolveAssemblyReference.cache
+c:\users\bangalpr\documents\visual studio 2015\Projects\DirectoryProperties\DirectoryPropertiesFrontEnd\obj\Debug\MainWindow.g.cs
+c:\users\bangalpr\documents\visual studio 2015\Projects\DirectoryProperties\DirectoryPropertiesFrontEnd\obj\Debug\App.g.cs
+c:\users\bangalpr\documents\visual studio 2015\Projects\DirectoryProperties\DirectoryPropertiesFrontEnd\obj\Debug\DirectoryPropertiesFrontEnd_MarkupCompile.cache
+c:\users\bangalpr\documents\visual studio 2015\Projects\DirectoryProperties\DirectoryPropertiesFrontEnd\obj\Debug\DirectoryPropertiesFrontEnd_MarkupCompile.lref
+c:\users\bangalpr\documents\visual studio 2015\Projects\DirectoryProperties\DirectoryPropertiesFrontEnd\obj\Debug\MainWindow.baml
+c:\users\bangalpr\documents\visual studio 2015\Projects\DirectoryProperties\DirectoryPropertiesFrontEnd\obj\Debug\DirectoryPropertiesFrontEnd.g.resources
+c:\users\bangalpr\documents\visual studio 2015\Projects\DirectoryProperties\DirectoryPropertiesFrontEnd\obj\Debug\DirectoryPropertiesFrontEnd.Properties.Resources.resources
+c:\users\bangalpr\documents\visual studio 2015\Projects\DirectoryProperties\DirectoryPropertiesFrontEnd\obj\Debug\DirectoryPropertiesFrontEnd.csproj.GenerateResource.Cache
+c:\users\bangalpr\documents\visual studio 2015\Projects\DirectoryProperties\DirectoryPropertiesFrontEnd\obj\Debug\DirectoryPropertiesFrontEnd.exe
+c:\users\bangalpr\documents\visual studio 2015\Projects\DirectoryProperties\DirectoryPropertiesFrontEnd\obj\Debug\DirectoryPropertiesFrontEnd.pdb

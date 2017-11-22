@@ -1,0 +1,6 @@
+﻿  DirectoryInfo.cpp
+c:\users\bangalpr\documents\visual studio 2015\projects\directoryproperties\directoryproperties\directoryinfo.cpp(38): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  DataStore.cpp
+  Generating Code...
+  DirectoryProperties.vcxproj -> C:\Users\bangalpr\documents\visual studio 2015\Projects\DirectoryProperties\Debug\DirectoryProperties.exe
+  DirectoryProperties.vcxproj -> C:\Users\bangalpr\documents\visual studio 2015\Projects\DirectoryProperties\Debug\DirectoryProperties.pdb (Partial PDB)
